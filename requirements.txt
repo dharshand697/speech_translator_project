@@ -1,0 +1,4 @@
+SpeechRecognition
+deep-translator
+pyttsx3
+pyaudio
